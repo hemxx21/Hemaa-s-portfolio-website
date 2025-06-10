@@ -1,0 +1,14 @@
+header{
+    border: 2px rgb(147, 90, 69);
+    width: 200px;
+    height: 100px;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.box-title{
+    width: 200px;
+    height: 50px;
+    border: 2px rgb(147, 90, 69);
+}
